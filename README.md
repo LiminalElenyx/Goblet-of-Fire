@@ -28,4 +28,35 @@ Since I’ve recently been learning and practicing JavaScript array methods like
 
 ```bash
 node goblet.js
+```
+
+## Technologies Used
+
+| Technology | Purpose |
+|----------|--------|
+| JavaScript (ES6) | Core language and logic |
+| Node.js | Runtime environment |
+| ES Modules | Modular code structure using `import` / `export` |
+| Git & GitHub | Version control and repository hosting |
+
+## Installation & Running the Project
+
+### Requirements
+- Node.js (v14 or higher recommended)
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/LiminalElenyx/Goblet-of-Fire.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Goblet-of-Fire
+   ```
+3. Run the Project:
+   ```bash
+   node.js
+   ```
+
+The selected champions will be logged to the console
 
